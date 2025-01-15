@@ -1,1 +1,11 @@
-
+customer_id,name,email,phone_number,location,signup_date,is_premium,preferred_cuisine,total_orders,average_rating
+ca01b98b-3cbd-43d1-b4cf-bfadc700824b,Danielle Rodriguez,allenlaura@example.com,367-397-3509x23749,Hughesside,2021-12-20,True,Chinese,4,4.0
+9105c3a6-58b7-4bf7-99e2-aaebd37a4eab,Casey Lutz,ggalloway@example.com,(254)635-8531x6422,Chrisport,2024-04-19,False,Indian,4,1.0
+e68d4486-b8f1-413c-9342-24a63b31e87d,Joshua Garrett,masseytimothy@example.com,001-390-756-2653,Phillipsstad,2023-11-28,False,Italian,3,5.0
+cac2dd2e-7eee-42f7-a770-b9c14f029580,Michael Brown,jonathanbautista@example.net,889.717.4632x01737,Goodwinchester,2023-08-08,True,Mexican,7,1.0
+e7ccf70f-eb68-4d94-b0e5-f0fa3fb1dd34,Kyle Lee,evan77@example.net,001-850-655-4224x06945,Lake Roseview,2022-10-06,False,Indian,4,4.0
+b8ff1826-068c-41dc-a44e-6c2bb19a3f63,Courtney Pope,stephanieanderson@example.com,(432)438-1438x204,Finleymouth,2020-06-06,False,Arabian,7,3.0
+21292c1b-36d8-4ac4-9251-c5b963fa2789,Gregory Holmes,daniel28@example.net,001-525-610-7863,Josephburgh,2020-05-26,True,Chinese,2,5.0
+7734ad17-288a-48dc-b87b-5b22cacb6983,Michelle Montgomery,dreynolds@example.com,001-991-344-5913x8349,New Samuel,2024-01-23,True,Mexican,4,3.0
+91139e18-75ae-4b88-9aac-d712b5c5a10b,Miss Casey Davidson,jerry82@example.com,624-546-2842,Fitzpatrickfurt,2022-07-16,True,Arabian,5,1.0
+56c7026f-9468-40c7-bf61-ce565f8ce04a,Kenneth Collins,weekstracy@example.com,(419)785-8132x6237,Benjaminfort,2023-09-08,True,Chinese,4,3.0

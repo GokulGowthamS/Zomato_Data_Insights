@@ -1,0 +1,11 @@
+delivery_id,order_id,delivery_status,distance,delivery_time,estimated_time,delivery_fee,vehicle_type
+7f041730-c563-4045-a469-26feb5a82921,d42990a3-0c87-4322-abd9-b1fede966e7c,Delivered,1,56,47,21,Scooter
+dc105797-b5d6-4290-b26d-e936ed3f133b,ec1cfd67-2530-4e8c-a145-176ca1433792,Cancelled,5,51,44,50,Bike
+ab3362c7-6046-4119-9d5d-4ca6f08650b1,e0298641-caaf-4b12-879c-7ca3a646a06e,On the Way,10,38,53,20,Scooter
+ac75bc77-00e2-454e-82af-a06f371274b9,e0298641-caaf-4b12-879c-7ca3a646a06e,Delivered,11,56,16,32,Scooter
+da088768-847c-49e1-a365-a50712451f9f,ec1cfd67-2530-4e8c-a145-176ca1433792,Delivered,18,25,25,16,Bike
+7f8e70a5-ad8c-4d90-91a4-a7ede420339a,d3b9d906-4a93-41fd-8e1d-325dd7d8c24b,Delivered,12,60,52,18,Scooter
+45c04c32-bd6f-4ca9-a8ab-f06f27309b37,ec247276-5366-4132-b425-7abaeeeeab22,On the Way,4,59,40,39,Scooter
+607820eb-70b1-42d9-8ec1-c01ae770b47a,63f26f17-10da-4027-8fdf-0285f6a358a8,Delivered,4,53,11,22,Bike
+918573b1-bc87-43b5-ac83-6fb982bd22f7,dc8bb214-c55a-4d24-b4d1-c8142e39662b,Delivered,9,39,16,40,Bike
+05869567-e221-44c1-8187-7adba604d0b5,63f26f17-10da-4027-8fdf-0285f6a358a8,Delivered,5,28,21,40,Scooter
