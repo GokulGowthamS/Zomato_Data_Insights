@@ -149,6 +149,16 @@ elif operation == "Insert":
         except Exception as e:
             st.error(f"Error: {e}")
 
+elif operation == 'Drop':
+    st.subheader("Drop Table")
+    table_name = st.text_input("Table Name")
+    if st.button("Submit"):
+        try: 
+            crud_ops.drop(table_name)
+            st.success("Table Dropped successfully.")
+        except Exception as e:
+            st.error(f"Error: {e}")
+
 
 st.sidebar.info("Thank you for using the application!")
 if st.sidebar.button("Exit Application"):
