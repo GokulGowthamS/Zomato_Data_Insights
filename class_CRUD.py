@@ -72,3 +72,12 @@ class CRUDOperations:
             print(f"Records deleted successfully from table '{table_name}'.")
         except Exception as e:
             print(f"Error during DELETE operation: {e}")
+
+    
+    def drop(self, table_name):
+        try:
+            query = f"DROP TABLE {table_name}"
+            self.db_manager.execute_query(query)
+            print(f"Table {table_name} as been Dropped Sucessfully!")
+        except Exception as e:
+            print(f"Error during DROP operation: {e}")
