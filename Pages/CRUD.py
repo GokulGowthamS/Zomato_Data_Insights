@@ -22,7 +22,7 @@ crud_ops = CRUDOperations(db_manager)
 st.sidebar.title("CRUD OPERATIONS")
 operation = st.sidebar.selectbox(
     "Select Operation",
-    ["Create", "Read", "Update", "Delete", "Alter", "Insert"]
+    ["Create", "Read", "Update", "Delete", "Alter", "Insert","Drop"]
 )
 
 
